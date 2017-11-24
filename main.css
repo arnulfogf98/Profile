@@ -1815,7 +1815,7 @@ section.wrapper img {
 		}
 
 	section.wrapper, article.wrapper {
-		padding: 1em 0;
+		padding: 0em 0;
 	}
 
 		section.wrapper header, article.wrapper header {

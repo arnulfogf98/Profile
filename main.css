@@ -1781,8 +1781,11 @@ section.wrapper img {
 
 	section.wrapper h1 {
 
-		color: black;
+		color: white;
 		font-size: 35px;
+		background-color: black;
+		padding-left: 5em;
+
 	}
 
 

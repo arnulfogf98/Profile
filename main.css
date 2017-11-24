@@ -1845,7 +1845,7 @@
 			}
 
 			section.wrapper.style1 header p, article.wrapper.style1 header p {
-				color: #bacee6;
+				color: #white;
 			}
 
 			section.wrapper.style1 h3, article.wrapper.style1 h3 {
@@ -2235,6 +2235,11 @@
 			.box.person h3 {
 				margin: 0;
 				font-weight: 1000;
+				color: white;
+			}
+			
+			.box.person p{
+				color: white
 			}
 
 			.box.person .image {

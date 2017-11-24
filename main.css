@@ -1848,7 +1848,8 @@
 		}
 
 			section.wrapper.style1 header h2, article.wrapper.style1 header h2 {
-				color: #fff;
+				color: black;
+				background-color: black;
 			}
 
 			section.wrapper.style1 header p, article.wrapper.style1 header p {

@@ -2247,7 +2247,7 @@
 			}
 			
 			.box.person p{
-				color: black
+				color: gray;
 			}
 
 			.box.person .image {

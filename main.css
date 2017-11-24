@@ -2243,11 +2243,11 @@
 			.box.person h3 {
 				margin: 0;
 				font-weight: 1000;
-				color: white;
+				color: black;
 			}
 			
 			.box.person p{
-				color: white
+				color: black
 			}
 
 			.box.person .image {
